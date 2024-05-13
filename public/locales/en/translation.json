@@ -1,0 +1,129 @@
+{
+    "header": {
+        "nav": {
+            "l1": "How to buy",
+            "l2": "Sales",
+            "l3": "Prices",
+            "l4": "Help",
+            "l5": "Bonuses",
+            "L6": "Blog",
+            "l7": "Shops",
+            "text": "Entrancence"
+        },
+        "section": {
+            "h1": "Delivery of goods from Great Britain to Russia ",
+            "p": "Start saving up to 80% on shopping. Register in Okeypost to buy clothes, shoes, gadgets of famous brands with discounts and safely send things to Russia.",
+            "btn": "Get an address in UK"
+        }
+    },
+    "section2": {
+        "h2": "How profitable is it to buy? ",
+        "title": "Clothing"
+    },
+    "startPage": {
+        "hero-text": "Delivery of goods from Great Britain to Russia ",
+        "desc": "Start saving up to 80% on shopping. Register in Okeypost to buy clothes, shoes, gadgets of famous brands with discounts and safely send things to Russia.",
+        "btn": "get an address in UK"
+    },
+    "card2": {
+        "desc1": "Price in Russia",
+        "desc2": "Price in UK",
+        "text": "Columbia Barlow Pass 550 Turbodown Jacket",
+        "text2": "Delivery of clothes from the UK from £ 7.79"
+    },
+    "bottomSec": {
+        "desc": "Delivery time is about 10 days ",
+        "title": "You save up to $ 119.56"
+    },
+    "card3": {
+        "title1": "Savings up to 70%",
+        "title2": "only genuine products",
+        "title3": "Operational delivery",
+        "title4": "Huge selection of goods"
+    },
+    "section1": {
+        "title": "Instruct our shopping masters to place orders in English stores and free your time for more important things. ",
+        "desc": "This method of purchase is also suitable if the store accepts only English cards.",
+        "btn": "Try"
+    },
+    "section4": {
+        "hero-text": "OKEYPOST convenient and fast delivery of parcels from the UK ",
+        "desc": "Calculate the cost of delivery from England to your home. We will receive your parcels in the warehouse, if necessary, unite several delivery in one and send them to you securely packed.",
+        "btn": "calculate",
+        "card": {
+            "title1": "Country:",
+            "name1": "Russia",
+            "title2": "City:",
+            "name2": "Moscow",
+            "title3": "Index:",
+            "name3": "Enter the index",
+            "title4": "The weight of the package:",
+            "name4": "0.5",
+            "title5": "Additional services:",
+            "name5": "Choose services"
+        }
+    },
+    "section5": {
+        "hero-text": "Delivery options: ",
+        "card": {
+            "title1": "Russian Post",
+            "time1": "10-14 days",
+            "text1": "Dates: ",
+            "text3": "Total:",
+            "стоимость": "Cost of delivery:",
+            "price1": "From £ 27.00",
+            "all1": "£ 41.99"
+        }
+    },
+    "section6": {
+        "hero-text": "4 simple steps for your purchases in the UK ",
+        "card": {
+            "title1": "You choose a product",
+            "desc1": "In an English store, pay and indicate the address of the OKEYPOST warehouse"
+        },
+        "desc": "Do not want to understand on their own, our shopping masters will gladly buy all the products for you.",
+        "btn": "Fast purchase"
+    },
+    "section7": {
+        "title": "Virtual tour of our warehouse in real time ",
+        "desc": "You can always look at our well -coordinated work in the warehouse",
+        "btn": "Try"
+    },
+    "section8": {
+        "hero-text": "120,000 satisfied customers in Russia have already made their choice ",
+        "desc": "Over the past year, tens of thousands of our customers ordered goods from England and left 19,633 reviews",
+        "card": {
+            "title1": "no longer means more expensive",
+            "desc1": "With the growth of the weight of the parcel, the price for every 0.5 kg decreases in progression."
+        }
+    },
+    "section9": {
+        "hero-text": "Reviews and quotes of bloggers: ",
+        "card": {
+            "title": "Nikolay S",
+            "desc1": "Your delivery is the fastest and cheapest !!!",
+            "date": "November 16, 2021",
+            "city": "St. Petersburg"
+        },
+        "btn": "All reviews"
+    },
+    "section10": {
+        "Title": "Your personal address in the UK for purchases",
+        "text1": "With us, you get two addresses in UK! We have two warehouses for receiving parcels - in London and Manchester. Indicate in the store the one that will be cheaper (or the purchase will be without taxes).In total, in London, our clients order clothes and shoes, and gadgets go to Manchester and everything else.",
+        "text2": "When delivering from UK to Russia, all your goods are sure to insure. Reception of parcels on our warehouse, their processing, removing extra boxes, storage for up to 70 days - we have completely free. We also carry out the combination of parcels from different stores for freeOne thing.",
+        "text3": "We have the most profitable delivery! From $ 11.99 for the package! And if you have any special requirements, such as checking equipment or additional film for the most fragile goods, the operators of our warehouse will be happy to perform them on special trial.",
+        "text4": "Okeypost.com is reliable, quickly and profitable. And in our social networks you will always find information about the best FyukBQCRB discounts [shops. It is not necessary to go to Black Friday or Prime Day, steep promotions take place every day!s take place every days take place every day!"
+    },
+    "footer": {
+        "title": "There are questions left?Ask us in social networks! ",
+        "p": "About the company",
+        "l1": "services",
+        "l2": "services",
+        "l3": "reviews",
+        "l4": "contacts",
+        "L5": "vacancies",
+        "L6": "return policy",
+        "L7": "Agreement on personal data",
+        "l8": "conditions of use"
+    }
+}
